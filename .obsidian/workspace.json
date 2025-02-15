@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "00bb05594cce40d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7afaf607871ffb55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1ed358a4282e4e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gimis Bál 2025/2025-Gimis-Bál.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-Gimis-Bál"
+            }
+          },
+          {
+            "id": "e83cb50dc6c92754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gimis Bál 2025/Faszos Geci.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Faszos Geci"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b675dc4a432b8eef",
+    "type": "split",
+    "children": [
+      {
+        "id": "7147ea4f24140111",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dfe91b4110d80f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b489f774e50b839d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2c3ae1abe9283810",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f6e46f5409d9e703",
+    "type": "split",
+    "children": [
+      {
+        "id": "0566a79e12c0dec4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c7f2b0c6092acf7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Gimis Bál 2025/Faszos Geci.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Faszos Geci"
+            }
+          },
+          {
+            "id": "1516593d4feb6234",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Gimis Bál 2025/Faszos Geci.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Faszos Geci"
+            }
+          },
+          {
+            "id": "4c52d83a2df6eeed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5bbd99a6c7a0c0bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Gimis Bál 2025/Faszos Geci.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Faszos Geci"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e83cb50dc6c92754",
+  "lastOpenFiles": [
+    "Gimis Bál 2025/2025-Gimis-Bál.md",
+    "Gimis Bál 2025/Faszos Geci.md",
+    "Gimis Bál 2025/2025 Gimis Bál.canvas",
+    "Neptune/jegyzetek/MűködésV2.canvas"
+  ]
+}
