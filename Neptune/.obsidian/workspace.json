@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "7b63bf0dbffb9031",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf5575d55e714e48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d54b0ceaf56e4a9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "476429f7657cdb63",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ac9e76035dc0630",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13230409777914ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ba996fe2eabcbcd6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "defed557b3f7f388",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0fa412b754f04cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c4d8ea811a52fb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b685da14734f84eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "jegyzetek/MűködésV4.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for MűködésV4"
+            }
+          },
+          {
+            "id": "fd1540020c1ad1fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "jegyzetek/MűködésV4.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from MűködésV4"
+            }
+          },
+          {
+            "id": "a2753f0ff89c2084",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c13ff429c981610b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "jegyzetek/MűködésV4.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of MűködésV4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "13230409777914ad",
+  "lastOpenFiles": [
+    "jegyzetek/MűködésV1.canvas",
+    "jegyzetek/MűködésV2.canvas",
+    "jegyzetek/MűködésV3.canvas",
+    "jegyzetek/MűködésV4.canvas",
+    "jegyzetek/MűködésV5.canvas",
+    "jegyzetek/Adatbázis.md",
+    "jegyzetek/Untitled.md",
+    "jegyzetek/Algoritmus.md",
+    "jegyzetek/Backend.md",
+    "jegyzetek/MűködésV0.canvas",
+    "média",
+    "jegyzetek/Weboldal.md",
+    "jegyzetek/Szerver.md",
+    "jegyzetek/Reklám.md",
+    "jegyzetek/Grafika.md",
+    "jegyzetek/Frontend.md",
+    "minták/NeptuneFolyamat.md",
+    "tagek/main.md",
+    "neputne.md"
+  ]
+}
